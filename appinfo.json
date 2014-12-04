@@ -7,7 +7,18 @@
     "longName": "Tutorial 1",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
     },
     "shortName": "Tutorial 1",
     "uuid": "240987f0-5d59-41d9-b846-532d9907b504",
